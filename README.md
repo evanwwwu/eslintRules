@@ -1,0 +1,1 @@
+#nuxt config and eslint rules
